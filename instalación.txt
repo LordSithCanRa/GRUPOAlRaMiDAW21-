@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------------------------
+
+COMANDOS UTILIZADOS POR INTEGRANTE 2 - ALBERTO CAMPOS GÓMEZ (PASOS REALIZADOS)
+
+Nos dirigiremos a la siguiente URL del proyecto:
+https://github.com/LordSithCanRa/GRUPOAlRaMiDAW21- (Deberemos ser ivitados previamente)
+
+Descargaremos mediante el comando 'pull' desde la consola GitBash, el proyecto.
+
+Luego abriremos nuestra aplicacion de transmisión de ficheros FileZilla, de esta forma
+accederemos al servidor SFTP de nuestro hosting, para poder subir la carpeta del 
+proyecto descargada de GitHub.
+
+Accederemos con los siguientes datos por SFTP:
+Servidor - sftp://albertortor.es.mialias.net
+Usuario - alber042b6e
+Contraseña - albertoDAW
+
+Una vez dentro aremos uso de nuestros conocimientos con el software FileZilla Client,
+y subiremos la carpeta descargada de GitHub.
+
+-------------------------------------------------------------------------------------------------
+
+INSTRUCCIONES DE ACCESO AL PROYECTO EN HOSTING CDMON
+
+Para acceder al hosting, solo tendremos que acceder a la siguiente URL:
+albertortor.es.mialias.net/alimentos2021/web
