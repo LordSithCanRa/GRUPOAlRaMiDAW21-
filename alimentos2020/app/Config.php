@@ -2,10 +2,10 @@
 
  class Config
  {
-     static public $mvc_bd_hostname = "localhost";
-     static public $mvc_bd_nombre   = "alimentos2020";
-     static public $mvc_bd_usuario  = "myjesus95";
-     static public $mvc_bd_clave    = "Q1GuQDIX";
+     static public $mvc_bd_hostname = "phpmyadmin.mi-alojamiento.com/?d=albertortor.es";
+     static public $mvc_bd_nombre   = "alimentos2021";
+     static public $mvc_bd_usuario  = "myalbertor";
+     static public $mvc_bd_clave    = "albertosqlDAW123";
      static public $mvc_vis_css     = "estilo.css";
  }
 ?>
