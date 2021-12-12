@@ -25,3 +25,11 @@ INSTRUCCIONES DE ACCESO AL PROYECTO EN HOSTING CDMON
 
 Para acceder al hosting, solo tendremos que acceder a la siguiente URL:
 albertortor.es.mialias.net/alimentos2021/web
+
+#################################################################################################
+
+Los datos de acceso a CDMON son los siguientes:
+Usuario: albertortor2000@gmail.com
+Contraseña: albertoDAW123
+
+#################################################################################################
