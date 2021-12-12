@@ -1,0 +1,16 @@
+Alberto:
+	Desde mi punto de vista, GIT es muy útil para los trabajos en grupo, ya que pueden trabajar varias 
+	personas a la vez mientras todo se almacena en un solo lugar. 
+	Me parece una práctica muy interesante, ya que podemos emplear varias tecnologías de "comunicación" como puede ser 
+	SFTP, para transeferir archivos, DNS para asociar nuestra IP a un nombre muchos más facil de recorda, y GIT, para controlar 
+	las versiones de nuestro programa y poder tener control total sobre las modificaciones efectuadas, una práctica muy completa.
+Ramón:
+	Por mi parte, GIT es la herramienta idónea para todos los programadores e informáticos y pienso que tiene muchas utilidades
+	que nos facilitan la vida cotidiana, ya que nos permite ir actualizando ficheros a la par que nuestros compañeros.
+	La práctica ha estado bien hemos aprendido como se actualiza un repositorio de github y hemos subido nuestro primer proyecto 
+	compartido, pero una objeción que tengo es que deberiamos haber aprendido ya ha hacer las peticiones dadas por comandos, de manera
+	gráfica, con github desktop por ejemplo.
+Miguel:
+	Me ha parecido una tarea interesante, porque hemos aprendido como trabajarian varios programadores en un mismo proyecto de manera remota, 
+	cosa que creo que nos va a ser bastante util en el futuro. La tarea ha sido bastante fácil en general y ha salido todo bastante bien, excepto que 
+	nos ha surgido un problema a la hora de subir el proyecto a cdmon.
