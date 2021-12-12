@@ -1,0 +1,13 @@
+Ramón creó el repositorio GrupoAlRaMi.
+Ramón invita a los usuarios Alberto y Miguel a que formen parte del proyecto, para que puedan subir archivos, etc.
+Ramón sube la carpeta /app/templates y las carpetas web/css, web/js y web/images.
+Miguel sube el archivo index.php a la carpeta web, y los archivos Controller.php y Congif.php a la carpeta app.
+Alberto crea la base de datos en su hosting de CDMON.
+Miguel modifica el fichero Config.php con los datos de conexión de la base de datos de Alberto.
+Alberto sube el archivo Model.php.
+Alberto sube el proyecto a cdmon.
+Ramón sube el fichero valoraciones.txt
+Alberto sube el fichero instrucciones.txt
+Miguel sube el fichero historico.txt
+
+
